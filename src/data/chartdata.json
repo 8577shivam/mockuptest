@@ -1,0 +1,39 @@
+{
+    "tableHeadings": [
+      "groups",
+      "clicks",
+      "costs",
+      "conversions",
+      "revenue"
+    ],
+    
+    
+    "data":[
+        {
+          "id": 1,
+          "groups": "Male",
+          "clicks": 5000,
+          "costs": 50025,
+          "conversions": 30,
+          "revenue": 8000
+        },
+        {
+          "id": 2,
+          "groups": "Female",
+          "clicks": 3200,
+          "costs": 32050,
+          "conversions": 20,
+          "revenue": 85020
+        },
+        {
+          "id": 3,
+          "groups": "Unknown",
+          "clicks": 7000,
+          "costs": 75080,
+          "conversions": 45,
+          "revenue": 180045
+        }
+        
+      ]
+    
+    }

@@ -1,0 +1,62 @@
+ {
+  "tableHeadings": [
+    "campaigns",
+    "clicks",
+    "costs",
+    "conversions",
+    "revenue"
+  ],
+  
+  
+  "data":[
+      {
+        "id": 1,
+        "campaigns": "Cosmetic",
+        "clicks": 5000,
+        "costs": 50025,
+        "conversions": 30,
+        "revenue": 120075
+      },
+      {
+        "id": 2,
+        "campaigns": "Serum",
+        "clicks": 3200,
+        "costs": 32050,
+        "conversions": 20,
+        "revenue": 85020
+      },
+      {
+        "id": 3,
+        "campaigns": "Facewash",
+        "clicks": 7000,
+        "costs": 75080,
+        "conversions": 45,
+        "revenue": 180045
+      },
+      {
+        "id": 4,
+        "campaigns": "Shampoos",
+        "clicks": 4000,
+        "costs": 42030,
+        "conversions": 25,
+        "revenue": 110060
+      },
+      {
+        "id": 5,
+        "campaigns": "Facewash",
+        "clicks": 6000,
+        "costs": 65070,
+        "conversions": 35,
+        "revenue": 160035
+      },
+      {
+        "id": 6,
+        "campaigns": "Conditioner",
+        "clicks": 3800,
+        "costs": 38090,
+        "conversions": 22,
+        "revenue": 90045
+      }
+    ]
+  
+  }
